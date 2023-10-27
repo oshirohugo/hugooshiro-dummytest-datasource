@@ -4,7 +4,7 @@ Remove any remaining comments before publishing as these may be displayed on Gra
 
 # Dummytest
 
-Plugin to test api
+Plugin to test api version bump
 
 <!-- To help maximize the impact of your README and improve usability for users, we propose the following loose structure:
 
